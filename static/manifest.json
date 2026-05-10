@@ -1,0 +1,9 @@
+{
+  "name": "Dev Moe Kyawaung Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": []
+}
